@@ -43,7 +43,7 @@ body {
   border-bottom: 1px solid white;
   padding-bottom: 1px;
   padding-top: 20px;
-  font-size:.9em;
+  font-size: 1em;
 }
 
 #logo {
@@ -55,10 +55,12 @@ body {
 }
 
 @media only screen 
-and (max-width : 320px) {
+and (max-width : 420px) {
 
-body {
-  background-color: #d3d3d3;
+#container a {
+font-size:.7em ;
 }
+
+
 
 }
