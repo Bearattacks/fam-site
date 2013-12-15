@@ -30,7 +30,6 @@ body {
 /*this is all ghetto for now*/
 #container {
   text-align: center;
-  padding-top: 150px;
   margin-left:20%;
   margin-right:20%;
 }
@@ -47,6 +46,7 @@ body {
 }
 
 #logo {
+  margin-top: 10%;
   min-width: 200px;
   width:100%;
   display: block;
